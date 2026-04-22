@@ -105,12 +105,12 @@ function Footer() {
 
           <p className="flex items-center gap-2 text-sm mb-2">
             <FaEnvelope className="text-[#0ea5e9]" />
-            asstravels@gmail.com
+            asskytravels@gmail.com
           </p>
 
           <p className="flex items-start gap-2 text-sm">
             <FaMapMarkerAlt className="text-[#0ea5e9] mt-1" />
-            134A, Latchathoppu North, Nainakulam Po, Pattukkottai, Thanjavur Dt, Tamil Nadu, PIN-614602.
+            Thanjavur Dt, Tamil Nadu, PIN-614602.
           </p>
         </div>
 
