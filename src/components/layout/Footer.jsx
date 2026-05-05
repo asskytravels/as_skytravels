@@ -105,7 +105,7 @@ function Footer() {
 
           <p className="flex items-center gap-2 text-sm mb-2">
             <FaEnvelope className="text-[#0ea5e9]" />
-            asskytravels@gmail.com
+            asskytravels.co@gmail.com
           </p>
 
           <p className="flex items-start gap-2 text-sm">

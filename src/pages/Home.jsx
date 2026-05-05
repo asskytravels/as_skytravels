@@ -659,14 +659,12 @@ className={`relative rounded-xl overflow-hidden group ${
             A&S Sky Travels
           </h3>
 
-          <p className="text-gray-600 text-sm mb-2">
-            134A, Latchathoppu North,  
-            Nainakulam PO, Pattukkottai,  
+          <p className="text-gray-600 text-sm mb-2">  
             Thanjavur Dt, Tamil Nadu - 614602
           </p>
 
           <p className="text-gray-600 text-sm">📞 +91 6384131529</p>
-          <p className="text-gray-600 text-sm">📧 asstravels@gmail.com</p>
+          <p className="text-gray-600 text-sm">📧 asskytravels.co@gmail.com</p>
         </div>
 
       </div>

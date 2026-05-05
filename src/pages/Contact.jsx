@@ -57,7 +57,7 @@ function Contact() {
           <a
             data-aos="fade-up"
             data-aos-delay="100"
-            href="tel:+911234567890"
+            href="tel:+916384131529"
             className="p-6 rounded-2xl bg-white shadow-md hover:shadow-xl transition text-center group"
           >
             <div className="w-14 h-14 mx-auto flex items-center justify-center rounded-full bg-[#0ea5e9]/10 text-[#0ea5e9] text-2xl mb-4 group-hover:scale-110 transition">
@@ -70,7 +70,7 @@ function Contact() {
           <a
             data-aos="fade-up"
             data-aos-delay="300"
-            href="https://wa.me/919876543210"
+            href="https://wa.me/916384131529"
             target="_blank"
             rel="noreferrer"
             className="p-6 rounded-2xl bg-white shadow-md hover:shadow-xl transition text-center group"
@@ -85,7 +85,7 @@ function Contact() {
           <a
             data-aos="fade-up"
             data-aos-delay="500"
-            href="mailto:asstravels@gmail.com"
+            href="mailto:asskytravels.co@gmail.com"
             className="p-6 rounded-2xl bg-white shadow-md hover:shadow-xl transition text-center group"
           >
             <div className="w-14 h-14 mx-auto flex items-center justify-center rounded-full bg-[#0ea5e9]/10 text-[#0ea5e9] text-2xl mb-4 group-hover:scale-110 transition">
@@ -112,11 +112,11 @@ function Contact() {
 
             <p className="flex items-center gap-3 text-sm text-gray-600">
               <FaEnvelope className="text-[#0ea5e9]" />
-              asstravels@gmail.com
+              asskytravels.co@gmail.com
             </p>
 
             <p className="text-sm text-gray-500">
-              📍 134A, Latchathoppu North, Nainakulam Po, Pattukkottai, Thanjavur Dt, Tamil Nadu, PIN-614602.
+              📍 Thanjavur Dt, Tamil Nadu, PIN-614602.
             </p>
           </div>
 
