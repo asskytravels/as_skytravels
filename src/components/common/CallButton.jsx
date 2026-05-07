@@ -9,7 +9,7 @@ function ContactFloat() {
   return (
     <div className="fixed bottom-6 right-6 z-50 flex flex-col items-end gap-3 animate-slideUp">
 
-      {/* CLOSE */}
+     
       <button
         onClick={() => setShow(false)}
         className="bg-white/90 backdrop-blur-md text-gray-700 shadow-md rounded-full p-2 hover:scale-110 transition"
@@ -25,10 +25,10 @@ function ContactFloat() {
         {/* BACKGROUND */}
         <span className="absolute inset-0 bg-gradient-to-r from-[#0ea5e9] to-blue-500"></span>
 
-        {/* SPLASH */}
+      
         <span className="absolute w-0 h-0 bg-white/30 rounded-full group-hover:w-[260px] group-hover:h-[260px] transition-all duration-500"></span>
 
-        {/* CONTENT */}
+       
         <div className="relative flex items-center gap-3 z-10">
           <div className="bg-white/20 p-2 rounded-full">
             <FaPhoneAlt className="text-xs" />
